@@ -17,7 +17,7 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 ---
 
 ## INE
-- [Host & Network Penetetration Testing Exploitation](INE/ine-host_&_network_penetration_testing_exploitation-easy.md)
+- [Host & Network Penetetration Testing Exploitation](INE/ine-host_&_network_penetratioine_testing_exploitation-easy.md)
 
 ---
 
