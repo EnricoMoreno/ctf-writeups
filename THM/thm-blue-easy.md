@@ -16,11 +16,11 @@
     
 - **Data:** `2025-11-28`
     
-- **Autor:** _[Seu Nome]_
+- **Autor:** _Enrico Moreno_
     
 - **Nível:** Easy
     
-- **Tempo gasto:** _Xh Ym_
+- **Tempo gasto:** _~1h_
     
 
 ---
