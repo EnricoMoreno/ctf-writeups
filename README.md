@@ -9,6 +9,7 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 - [Basic Pentesting — Easy](THM/thm-basic_pentesting-easy.md)
 - [Easy Peasy — Easy](THM/thm-easy-peasy-easy.md)
 - [Blue — Easy](THM/thm-blue-easy.md)
+- [Ignite — Easy](THM/thm-ignite-easy.md)
 
 ---
 
