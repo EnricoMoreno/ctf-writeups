@@ -10,7 +10,8 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 - [Easy Peasy — Easy](THM/thm-easy-peasy-easy.md)
 - [Blue — Easy](THM/thm-blue-easy.md)
 - [Ignite — Easy](THM/thm-ignite-easy.md)
-
+- [RootMe — Easy](THM/thm-rootme-easy.md)
+  
 ---
 
 ## HTB
