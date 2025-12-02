@@ -12,6 +12,7 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 - [Ignite — Easy](THM/thm-ignite-easy.md)
 - [RootMe — Easy](THM/thm-rootme-easy.md)
 - [SimpleCTF — Easy](THM/thm-simplectf-easy.md)
+- [Startup — Easy](THM/thm-startup-easy.md)
   
 ---
 
