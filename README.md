@@ -5,6 +5,8 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 ---
 
 ## THM
+
+### Easy
 - [Vulnversity — Easy](THM/thm-vulnversity-easy.md)
 - [Basic Pentesting — Easy](THM/thm-basic_pentesting-easy.md)
 - [Easy Peasy — Easy](THM/thm-easy-peasy-easy.md)
@@ -13,6 +15,8 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 - [RootMe — Easy](THM/thm-rootme-easy.md)
 - [SimpleCTF — Easy](THM/thm-simplectf-easy.md)
 - [Startup — Easy](THM/thm-startup-easy.md)
+
+### Medium
 - [Blog — Medium](THM/thm-blog-medium.md)
   
 ---
