@@ -20,7 +20,10 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 ### Medium
 - [Blog — Medium](THM/thm-blog-medium.md)
 - [Anonymous — Medium](THM/thm-anonymous-medium.md)
-  
+
+### Hard
+- [Internal — Hard](THM/thm-internal-hard.md)
+
 ---
 
 ## HTB
