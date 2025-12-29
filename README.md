@@ -33,10 +33,5 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 
 ---
 
-## INE
-- [eJPT — Host & Network Penetetration Testing Exploitation — Medium](INE/ejpt_host_network_penetration_testing_exploitation-medium.md)
-
----
-
 ## Labs Locais
 *(nenhum ainda)*
