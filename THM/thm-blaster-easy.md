@@ -104,8 +104,6 @@ Após tentativas na VM local, acesso foi obtido via AttackBox da TryHackMe.
 
 **Flag user encontrada:**
 
-`THM{HACK_PLAYER_ONE}`
-
 ### Privesc
 
 Binário `hhupd` encontrado na área de trabalho + pesquisa sobre CVE-2019-1388 → UAC bypass
@@ -113,8 +111,6 @@ Binário `hhupd` encontrado na área de trabalho + pesquisa sobre CVE-2019-1388 
 Execução do exploit → Administrator
 
 **Flag root encontrada:**
-
-`THM{COIN_OPERATED_EXPLOITATION}`
 
 ### Pós-exploração
 
@@ -188,10 +184,6 @@ Coletar flags
 ---
 
 ## 10) Apêndice técnico
-
-**Flags:**
-
-`User: THM{HACK_PLAYER_ONE} Root: THM{COIN_OPERATED_EXPLOITATION}`
 
 **Arquivos a anexar:**
 
