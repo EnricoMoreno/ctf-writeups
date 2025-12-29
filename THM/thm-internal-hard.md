@@ -136,10 +136,6 @@ Em Note.txt:
 
 `root ssh: tr0ubl13guM!@#123`
 
-### Flags
-
-`User: THM{int3rna1_fl4g_1} Root: THM{d0ck3r_d3str0y3r}`
-
 ---
 
 ## 6) Impacto & Severidade
@@ -235,11 +231,6 @@ Artefatos a anexar:
 ![](Wpscan_VulnsScan_Internal.txt)
 
 ![](Wpscan_Bruteforce_Internal.txt)
-
-
-Flags:
-
-`User: THM{int3rna1_fl4g_1} Root: THM{d0ck3r_d3str0y3r}`
 
 ---
 
