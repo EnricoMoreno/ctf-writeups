@@ -109,10 +109,6 @@ Payload de reverse shell com Metasploit seguido de execução
 
 → root shell
 
-### Flags
-
-`/media/usb/user.txt → c8421899aae571f7af486492b71a8ab7 /root/root.txt       → 9a0b2b618bef9bfa7ac28c1353d9f318`
-
 ---
 
 ## 6) Impacto & Severidade
@@ -192,13 +188,6 @@ WordPress mal configurado + privesc trivial = **comprometimento total** do siste
 #### WPScan
 
 ![](BruteForceWP_Blog.txt)
-
-### Flags (validadas)
-
-- User: `c8421899aae571f7af486492b71a8ab7`
-    
-- Root: `9a0b2b618bef9bfa7ac28c1353d9f318`
-    
 
 ---
 
