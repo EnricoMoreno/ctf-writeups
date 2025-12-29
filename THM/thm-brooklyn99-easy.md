@@ -102,8 +102,6 @@ Ferramentas utilizadas: `stegcracker` + `steghide`
 
 ### User flag
 
-`ee11cbb19052e40b07aac0ca060c23ee`
-
 ### Privesc via sudo
 
 Holt conseguia modificar `/etc/sudoers`:
@@ -111,8 +109,6 @@ Holt conseguia modificar `/etc/sudoers`:
 `sudo visudo → adicionar holt ALL=(ALL:ALL) ALL`
 
 Shell root e flag final:
-
-`63a9f0ea7bb98050796b649e85481845`
 
 ---
 
@@ -180,10 +176,6 @@ Shell root e flag final:
 ---
 
 ## 10) Apêndice técnico
-
-**Flags coletadas**
-
-`User: ee11cbb19052e40b07aac0ca060c23ee Root: 63a9f0ea7bb98050796b649e85481845`
 
 **Arquivos sugeridos para anexar**
 
