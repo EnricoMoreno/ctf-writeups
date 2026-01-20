@@ -19,6 +19,7 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 - [Brooklyn Nine Nine — Easy](THM/thm-brooklyn99-easy.md)
 - [Ice — Easy](THM/thm-ice-easy.md)
 - [Poster — Easy](THM/thm-poster-easy.md)
+- [Source — Easy](THM/thm-source-easy.md)
 
 ### Medium
 - [Blog — Medium](THM/thm-blog-medium.md)
