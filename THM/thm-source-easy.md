@@ -15,7 +15,7 @@
 
 ## 1) Executive summary
 
-Servidor Webmin 1.890 vulnerável a backdoor público permitiu execução remota de comandos e acesso root. Flags `THM{SUPPLY_CHAIN_COMPROMISE}` e `THM{UPDATE_YOUR_INSTALL}` obtidas.
+Servidor Webmin 1.890 vulnerável a backdoor público permitiu execução remota de comandos e acesso root.
 
 ---
 
@@ -64,12 +64,6 @@ Servidor Webmin 1.890 vulnerável a backdoor público permitiu execução remota
 **Vulnerabilidade:** Webmin 1.890 Backdoor (RCE — Remote Command Execution)  
 **Local / Endpoint:** `https://<IP>:10000/`  
 **PoC curta:** Execução remota de comandos via payload do módulo Metasploit.  
-**Flag / Artefato:**
-
-- `/home/dark/user.txt` → `THM{SUPPLY_CHAIN_COMPROMISE}`
-    
-- `/root/root.txt` → `THM{UPDATE_YOUR_INSTALL}`
-    
 
 ---
 
@@ -82,12 +76,6 @@ Servidor Webmin 1.890 vulnerável a backdoor público permitiu execução remota
 ### Shell → root
 
 `meterpreter > shell /bin/bash -i root@source:/usr/share/webmin# whoami root`
-
-### Flags
-
-`/home/dark/user.txt → THM{SUPPLY_CHAIN_COMPROMISE} /root/root.txt       → THM{UPDATE_YOUR_INSTALL}`
-
----
 
 ## 6) Impacto & Severidade (justifique)
 
