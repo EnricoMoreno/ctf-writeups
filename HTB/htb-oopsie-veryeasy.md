@@ -119,12 +119,6 @@ A flag de usuário foi localizada em:
 /home/robert/user.txt
 ```
 
-**Flag:**
-
-```
-f2c74ee8db7983851ab2a96a44eb7981
-```
-
 ---
 
 ## 6. Privilege Escalation
@@ -176,12 +170,6 @@ Localizada em:
 
 ```
 /root/root.txt
-```
-
-**Flag:**
-
-```
-af13b0bee69f8a877c3faf667f7beacf
 ```
 
 Impacto final:
