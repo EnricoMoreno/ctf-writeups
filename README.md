@@ -36,6 +36,9 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 - [Oopsie — Very Easy](HTB/htb-oopsie-veryeasy.md)
 - [Pennyworth — Very Easy](HTB/htb-pennyworth-veryeasy.md)
 
+### Easy
+- [Devel — Easy](HTB/htb-devel-easy.md)
+
 ---
 
 ## Labs Locais
