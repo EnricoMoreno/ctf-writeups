@@ -38,6 +38,7 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 
 ### Easy
 - [Devel — Easy](HTB/htb-devel-easy.md)
+- [Legacy — Easy](HTB/htb-legacy-easy.md)
 
 ---
 
