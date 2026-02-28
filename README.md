@@ -42,6 +42,9 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 - [Lame — Easy](HTB/htb-lame-easy.md)
 - [Love — Easy](HTB/htb-love-easy.md)
 
+### Medium
+- [Jeeves — Medium](HTB/htb-jeeves-medium.md)
+
 ---
 
 ## Labs Locais
