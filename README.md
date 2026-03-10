@@ -44,6 +44,7 @@ Organização dos write-ups de máquinas CTF (HTB, THM, INE e labs locais).
 
 ### Medium
 - [Jeeves — Medium](HTB/htb-jeeves-medium.md)
+- [Hawk — Medium](HTB/htb-hawk-medium.md)
 
 ---
 
